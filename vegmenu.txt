@@ -1,0 +1,11 @@
+  1. Idli			40/- 
+  2. Fried Rice		60/-
+  3. Poori        	45/-
+  4. Noodles      	35/-
+  5. Masala Dosa		45/-
+  6. Veg. Thaali(North)	150/-  
+    -->Dal
+    -->Paneer  
+    -->Chapati
+    -->Rice
+    -->Papad
